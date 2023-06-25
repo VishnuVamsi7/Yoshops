@@ -1,2 +1,10 @@
 # Yoshops
 Demonstrated exceptional problem-solving skills and attention to detail by successfully completing a diverse range of data-driven tasks, including web scraping, exploratory data analysis, automation, and developing billing systems. Leveraged programming proficiency in Python.
+Completed web scraping tasks to extract data from websites, demonstrating proficiency in data acquisition and manipulation using Python and web scraping libraries.
+Developed an Exploratory Data Analysis (EDA) using Yoshops.com Sale Order file, employing data visualization techniques and statistical analysis to gain insights into customer reviews, payment methods, consumer states and cities, top-selling product categories, and other relevant metrics.
+Automated the validation process for the Products Page, utilizing Python programming skills to identify web pages with missing product images and generate an Excel file containing web URLs, product details, contact information, and addresses.
+Implemented digital marketing automation by creating banners, tag lines, topic descriptions, and keyword files, along with short videos and blog content, for promoting the Data Science Basic Training Program on Yoshops.com.
+Developed Python programs for file management tasks, including merging two Excel files, sorting files into different folders, identifying and separating duplicate files based on mobile numbers, and sorting files by keywords.
+Contributed to the Payroll ATS system by generating monthly pay slips, preparing cash flow and balance sheet reports for specific locations, and distributing profit reports to stakeholders.
+Created Python scripts using web scraping techniques to gather college data, such as college names, URLs, addresses, email IDs, and phone numbers, based on user input for city, the state capital, or total cities in each state.
+Designed and implemented a billing system for Ambur Biryani, enabling efficient generation and storage of bills, incorporating user input for customer details and food items.
